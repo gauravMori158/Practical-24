@@ -1,6 +1,6 @@
-﻿using Repository_Pattern.Models;
+﻿using ClassLibrary.Models;
 
-namespace Repository_Pattern.Interface
+namespace ClassLibrary.Interface
 {
     public interface IEmployeeRepo
     {

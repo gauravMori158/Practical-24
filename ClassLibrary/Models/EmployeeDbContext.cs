@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace Repository_Pattern.Models
+namespace ClassLibrary.Models
 {
     public class EmployeeDbContext : DbContext
     {

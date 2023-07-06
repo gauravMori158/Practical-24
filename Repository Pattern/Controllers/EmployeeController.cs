@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Repository_Pattern.Interface;
-using Repository_Pattern.Repository;
-using Repository_Pattern.Models;
+using ClassLibrary.Interface;
+using ClassLibrary.Repository;
+using ClassLibrary.Models;
 
 namespace Repository_Pattern.Controllers
 {

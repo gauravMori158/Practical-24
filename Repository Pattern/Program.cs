@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using Repository_Pattern.Interface;
-using Repository_Pattern.Models;
-using Repository_Pattern.Repository;
+using ClassLibrary.Interface;
+using ClassLibrary.Models;
+using ClassLibrary.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
